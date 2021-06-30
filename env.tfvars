@@ -1,0 +1,5 @@
+region = "us-central1"
+credential_file = "authentication.json"
+env_name = "dev"
+cluster_name = "k8s-cluster"
+project_id = "esoteric-stream-317821-ae4c2e566685"
